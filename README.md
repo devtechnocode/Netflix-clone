@@ -25,7 +25,7 @@
   clone this repo
 
   ```
-  gti clone https://github.com/devtechnocode/Netflix_clone.git
+  gti clone https://github.com/devtechnocode/Netflix-clone.git
   ```
 
 - Step-2:
