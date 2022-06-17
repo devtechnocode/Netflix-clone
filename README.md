@@ -1,7 +1,49 @@
 # Netflix-Clone 
 
-[Link to Website ](https://netflix-clone-eb342.web.app/).
+👉 [See Live Demo](https://netflix-clone-eb342.web.app/).
 
+## Stack Used :-
+
+<ul> 
+  <li>ReactJs</li>
+  <li>Firebase</li>
+  <li> <a href="https://api.themoviedb.org/">Themoviedb API</a></li>
+</ul>
+
+
+## Library Used :-
+<ul>
+  <li>axios</li>
+  <li>movie-trailer</>
+  <li>react-youtube</li>
+</ul>
+
+## How to use:-
+
+- Step-1:
+
+  clone this repo
+
+  ```
+  gti clone https://github.com/devtechnocode/Netflix_clone.git
+  ```
+
+- Step-2:
+
+  Install all dependencies
+
+  ```
+  cd google-clone
+  npm install
+  ```
+
+- Step-3:
+
+  Finally to start the server execute this script
+
+  ```
+  npm start
+  ```
 
 
 ## Getting Started with Create React App
